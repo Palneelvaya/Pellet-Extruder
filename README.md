@@ -1,10 +1,10 @@
-# Project Title
+# Pellet Extruder
 ## 1. Project Overview
 ### 1.1 Project Name
-> *[Enter project name here]*
+> *[Pellet extruder integration into Volterra]*
 
 ### 1.2 Description
-> *Briefly describe what this project aims to achieve.*
+> *Install a pellet extruder into Volterra 3D printer by integrating the electronics as well as mounting it on the X-axis.*
 
 ### 1.3 Goals & Objectives
 - *List the high-level objectives and expected outcomes.*
