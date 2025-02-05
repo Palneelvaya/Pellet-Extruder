@@ -8,6 +8,7 @@
 
 ### 1.3 Goals & Objectives
 - *List the high-level objectives and expected outcomes.*
+- Print usable samples through pellet extruder after installing it on volterra
 
 ### 1.4 Key Features
 - *Outline the main functionalities and design goals.*
@@ -23,11 +24,14 @@
 
 ### 2.3 Constraints & Challenges
 - *Document limitations such as cost, size, power consumption, etc.*
+- Limited knowledge of electronics inside printer
+- Refurbishing the machine, removing old parts and integrating old chassis with new design
 
 ---
 
 ## 3. Development Log
 *(Use this section to record ongoing research, issues, and progress. Clean it up as the project solidifies.)*
+- Transfering electronics from another 3d printer to Volterra
 
 ### 3.1 Research Links & Resources
 | Date       | Link | Notes |
