@@ -1,15 +1,17 @@
 # Pellet Extruder
 ## 1. Project Overview
 ### 1.1 Project Name
-> *[Pellet extruder integration into Volterra]*
+> *Pellet extruder integration into Volterra*
 
 ### 1.2 Description
-> *Install a pellet extruder into Volterra 3D printer by integrating the electronics as well as mounting it on the X-axis.*
+> *Install an outsourced pellet extruder into the Volterra 400 3D printer by integrating the electronics and optimizing mechatronics.*
 
 ### 1.3 Goals & Objectives
-- *List the high-level objectives and expected outcomes.*
+- *Installing the pellet extruder*
+- *Autobed Levelling*
+- *Mechatronics Restoration*
 - Print usable samples through pellet extruder after installing it on volterra
-- transfer
+
 
 ### 1.4 Key Features
 - *Outline the main functionalities and design goals.*
