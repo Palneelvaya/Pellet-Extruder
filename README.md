@@ -37,6 +37,10 @@
 ## 3. Development Log
 *(Use this section to record ongoing research, issues, and progress. Clean it up as the project solidifies.)*
 - Transfering electronics from another 3d printer to Volterra
+- Mounting holes for extruder mount on the carriage
+- Mounting holes for load cell
+- CAD for hopper
+- CAD for carriage assembly
 
 ### 3.1 Research Links & Resources
 | Date       | Link | Notes |
@@ -44,7 +48,8 @@
 | YYYY-MM-DD | [Link](#) | *Brief note on relevance* |
 
 ### 3.2 Key Decisions & Changes
-- *Document major design changes and why they were made.*
+- decided to go with old carriage plate and mount PE using standoffs as the new design will hinder the X-axis movements.
+- 
 
 ### 3.3 Issues & Solutions
 - **Issue:** *Describe the problem.*
