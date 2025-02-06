@@ -9,6 +9,7 @@
 ### 1.3 Goals & Objectives
 - *List the high-level objectives and expected outcomes.*
 - Print usable samples through pellet extruder after installing it on volterra
+- transfer
 
 ### 1.4 Key Features
 - *Outline the main functionalities and design goals.*
