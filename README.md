@@ -26,6 +26,8 @@
 - *Document limitations such as cost, size, power consumption, etc.*
 - Limited knowledge of electronics inside printer
 - Refurbishing the machine, removing old parts and integrating old chassis with new design
+- More noise and vibration during operation than traditional filament based machines.
+- Requires higher temperature to melt pellets
 
 ---
 
