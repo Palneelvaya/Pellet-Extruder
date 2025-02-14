@@ -15,28 +15,50 @@
 
 ### 1.4 Key Features
 - *Outline the main functionalities and design goals.*
-
+- Material pellets are used instead of filament.
+- Reduced material cost.
 ---
 
 ## 2. Requirements
 ### 2.1 Hardware Requirements
 - *List required components, specifications, and dependencies.*
-
+ FOR EXTRUDER
+- Nozzle
+- Nozzle Heater
+- Thermistor
+- Stepper motors
+- Feeder Screw
+- Cooler Fans
+- PTFE Casing
+- Aluminium Casing
+- Hopper
+- Mounting Plate
+- Fasteners
+- Standoffs
+ FOR CARRIAGE
+- Aluminium carriage plate
+- LM10uu Bearings
+- Guide rods
+- Racer chain
+- Fasteners
 ### 2.2 Software & Tools
 - *Mention any software, programming languages, or design tools needed.*
+- Fusion 360 for extruder and assembly design
+- Fracktory for slicing the 3D printing components
 
 ### 2.3 Constraints & Challenges
 - *Document limitations such as cost, size, power consumption, etc.*
-- Limited knowledge of electronics inside printer
-- Refurbishing the machine, removing old parts and integrating old chassis with new design
-- More noise and vibration during operation than traditional filament based machines.
-- Requires higher temperature to melt pellets
-
+- Limited knowledge of electronics inside the printer
+- Refurbishing the machine, removing old parts, and integrating old chassis with new design
+- More noise and vibration during operation than traditional filament-based machines.
+- Requires higher temperature to melt pellets.
+- Hopper positioning and interference with bearing housing and guide rods.
+- unavailability of Long screw 25mm standoffs, hence used Helicoil for fastening.
 ---
 
 ## 3. Development Log
 *(Use this section to record ongoing research, issues, and progress. Clean it up as the project solidifies.)*
-- Transfering electronics from another 3d printer to Volterra
+- Transferring electronics from another 3d printer to Volterra
 - Mounting holes for extruder mount on the carriage
 - Mounting holes for load cell
 - CAD for hopper
@@ -48,7 +70,7 @@
 | YYYY-MM-DD | [Link](#) | *Brief note on relevance* |
 
 ### 3.2 Key Decisions & Changes
-- decided to go with old carriage plate and mount PE using standoffs as the new design will hinder the X-axis movements.
+- decided to go with the previously designed carriage plate and mount PE using standoffs as the new design will hinder the X-axis movements.
 - 
 
 ### 3.3 Issues & Solutions
