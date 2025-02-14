@@ -22,7 +22,7 @@
 ## 2. Requirements
 ### 2.1 Hardware Requirements
 - *List required components, specifications, and dependencies.*
-  -FOR EXTRUDER
+- FOR EXTRUDER =>
 - Nozzle
 - Nozzle Heater
 - Thermistor
@@ -35,7 +35,7 @@
 - Mounting Plate
 - Fasteners
 - Standoffs
-  -FOR CARRIAGE
+- FOR CARRIAGE=>
 - Aluminium carriage plate
 - LM10uu Bearings
 - Guide rods
