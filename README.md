@@ -63,6 +63,8 @@
 - Mounting holes for load cell
 - CAD for hopper
 - CAD for carriage assembly
+- Electronics connections and firmaware installation on raspberry pi
+- Testing extruder and motors
 
 ### 3.1 Research Links & Resources
 | Date       | Link | Notes |
