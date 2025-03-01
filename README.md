@@ -65,6 +65,8 @@
 - CAD for carriage assembly
 - Electronics connections and firmaware installation on raspberry pi
 - Testing extruder and motors
+- Bed screw calibration
+- Printing test
 
 ### 3.1 Research Links & Resources
 | Date       | Link | Notes |
