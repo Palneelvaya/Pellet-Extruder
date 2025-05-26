@@ -64,9 +64,10 @@
 - CAD for hopper
 - CAD for carriage assembly
 - Electronics connections and firmaware installation on raspberry pi
-- Testing extruder and motors
+- Testing the extruder and motors
 - Bed screw calibration
 - Printing test
+- Made a 10mm auger barrel and aluminium housing for coupling and feeding pellets.
 
 ### 3.1 Research Links & Resources
 | Date       | Link | Notes |
@@ -75,11 +76,13 @@
 
 ### 3.2 Key Decisions & Changes
 - decided to go with the previously designed carriage plate and mount PE using standoffs as the new design will hinder the X-axis movements.
-- 
+- Tested Catamold(metal pellets) with 0.8mm nozzle and PLA and ABS with 0.4 and 0.6mm nozzle. 
 
 ### 3.3 Issues & Solutions
-- **Issue:** *Describe the problem.*
-  - **Solution:** *Describe how it was solved.*
+- **Issue:** Flow rate 
+  - **Solution:** *determined the flow rate for proper extrusion with flow rate calibration test and with test prints, we got around 8-9mm3/s.(not fixed)*
+-  **Issue:** Banding
+  **Solution:** The auger screw has a slight bend, which irregulates the flow when it is in operation.
 
 ---
 
@@ -88,8 +91,7 @@
 - *Outline the first actions taken to get started.*
 
 ### 4.2 Iterative Development
-- *Document key development phases and their outcomes.*
-
+- Made a 10mm auger barrel and aluminium housing for coupling and feeding pellets.
 ### 4.3 Final Steps
 - *Summarize the last steps taken before project completion.*
 
@@ -99,8 +101,8 @@
 ### 5.1 Test Cases
 | Test | Expected Result | Actual Result | Status |
 |------|----------------|---------------|--------|
-| *Test Name* | *What should happen?* | *What actually happened?* | ✅ / ❌ |
-
+| Cube Test | a single-walled cube with proper dimensional accuracy with walls of 0.4mm(with 0.4mm nozzle) and 20mm sides.  | wall dimension is not even close to 0.4mm and is around 1mm with catamold and around 0.5mm with PLA. | ✅ / ❌ |
+|Temp Tower|a temp tower with temp from 180-230 deg celsius to be printed with different overhangs and bridges|Temp tower was only printed with PLA and we did not get proper identification of optimal temp, so we decided to go with 185- 190C as first step|❌|
 ### 5.2 Performance & Reliability
 - *Describe stress tests, benchmarks, and overall performance analysis.*
 
